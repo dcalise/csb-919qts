@@ -2,18 +2,18 @@
   "files": {
     "static/js/0.4f060e8d.chunk.js": "https://dcalise.github.io/csb-919qts/static/js/0.4f060e8d.chunk.js",
     "static/js/0.4f060e8d.chunk.js.map": "https://dcalise.github.io/csb-919qts/static/js/0.4f060e8d.chunk.js.map",
-    "main.js": "https://dcalise.github.io/csb-919qts/static/js/main.901c1b36.chunk.js",
-    "main.js.map": "https://dcalise.github.io/csb-919qts/static/js/main.901c1b36.chunk.js.map",
+    "main.js": "https://dcalise.github.io/csb-919qts/static/js/main.50067da6.chunk.js",
+    "main.js.map": "https://dcalise.github.io/csb-919qts/static/js/main.50067da6.chunk.js.map",
     "runtime-main.js": "https://dcalise.github.io/csb-919qts/static/js/runtime-main.ed51d51f.js",
     "runtime-main.js.map": "https://dcalise.github.io/csb-919qts/static/js/runtime-main.ed51d51f.js.map",
-    "static/js/3.f627e4f4.chunk.js": "https://dcalise.github.io/csb-919qts/static/js/3.f627e4f4.chunk.js",
-    "static/js/3.f627e4f4.chunk.js.map": "https://dcalise.github.io/csb-919qts/static/js/3.f627e4f4.chunk.js.map",
+    "static/js/3.10bf0cd9.chunk.js": "https://dcalise.github.io/csb-919qts/static/js/3.10bf0cd9.chunk.js",
+    "static/js/3.10bf0cd9.chunk.js.map": "https://dcalise.github.io/csb-919qts/static/js/3.10bf0cd9.chunk.js.map",
     "index.html": "https://dcalise.github.io/csb-919qts/index.html",
-    "static/js/3.f627e4f4.chunk.js.LICENSE.txt": "https://dcalise.github.io/csb-919qts/static/js/3.f627e4f4.chunk.js.LICENSE.txt"
+    "static/js/3.10bf0cd9.chunk.js.LICENSE.txt": "https://dcalise.github.io/csb-919qts/static/js/3.10bf0cd9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ed51d51f.js",
-    "static/js/3.f627e4f4.chunk.js",
-    "static/js/main.901c1b36.chunk.js"
+    "static/js/3.10bf0cd9.chunk.js",
+    "static/js/main.50067da6.chunk.js"
   ]
 }
